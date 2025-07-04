@@ -1,0 +1,12 @@
+﻿  DBSCAN_Agoritması.cpp
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(73,34): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(100,19): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(128,60): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(129,47): warning C4267: 'bağımsız değişken': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(129,47): warning C4267:         with
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(129,47): warning C4267:         [
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(129,47): warning C4267:             _Ty=int
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(129,47): warning C4267:         ]
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(201,23): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\DBSCAN_Agoritması.cpp(221,27): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  DBSCAN_Agoritması.vcxproj -> C:\Users\olum1\OneDrive\Masaüstü\MakinaOgrenmesi\DBSCAN_Agoritması\x64\Debug\DBSCAN_Agoritması.exe
